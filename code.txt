@@ -5,5 +5,4 @@ while i<10
 sum=sum+i
 i++
 end
-something new
-
+not code
