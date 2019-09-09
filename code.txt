@@ -6,3 +6,4 @@ sum=sum+i
 i++
 end
 not code
+some
