@@ -1,8 +1,2 @@
-begin
-i=0
-sum=0
-while i<10
-sum=sum+i
-i++
-end
-not code
+Helloy
+I'am not code
